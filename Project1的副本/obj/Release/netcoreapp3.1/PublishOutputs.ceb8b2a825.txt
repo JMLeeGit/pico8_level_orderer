@@ -1,0 +1,14 @@
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/Project1
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/Project1.dll
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/Project1.deps.json
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/Project1.runtimeconfig.json
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/Project1.pdb
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/MonoGame.Framework.dll
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/runtimes/linux-x64/native/libopenal.so.1
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/runtimes/osx/native/libopenal.1.dylib
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/runtimes/win-x64/native/SDL2.dll
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/runtimes/win-x64/native/soft_oal.dll
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/runtimes/win-x86/native/SDL2.dll
+/Users/ljm/dev/c#/pico8_level_manager/Project1/bin/Release/netcoreapp3.1/publish/runtimes/win-x86/native/soft_oal.dll

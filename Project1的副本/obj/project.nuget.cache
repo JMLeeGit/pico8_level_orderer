@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jXbnar7Ezc6GX3Ia94XL9SBxSBrd3I+++BVphP806E4kWyugTs9zAC+dvOVta8uk9tPbIagfuLViwEry9njvYw==",
+  "success": true,
+  "projectFilePath": "/Users/ljm/dev/c#/pico8_level_manager/Project1/Project1.csproj",
+  "expectedPackageFiles": [
+    "/Users/ljm/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/ljm/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
